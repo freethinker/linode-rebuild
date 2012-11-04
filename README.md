@@ -4,7 +4,7 @@ Rebuilding your Linode has never been easier!
 
 ## Requirements
 
-Make sure you have installed [rick/linode](http://github.com/rick/linode)
+Make sure you have installed [rick/linode](http://github.com/rick/linode).
 
 ```
 gem install linode
@@ -21,6 +21,7 @@ Run the damn thing:
 ## Credits
 
 [linode](http://linode.com)
+
 [rick](http://github.com/rick)
 
 ## License
