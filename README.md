@@ -1,20 +1,18 @@
 # Linode Rebuild
 
-Rebuilding your linode has never been easier!
+Rebuilding your Linode has never been easier!
 
 ## Requirements
 
-[rick/linode](http://github.com/rick/linode)
-
-## Usage
-
-Make sure you have installed rick's Linode Ruby gem.
+Make sure you have installed [rick/linode](http://github.com/rick/linode)
 
 ```
 gem install linode
 ```
 
-Then run the damn thing:
+## Usage
+
+Run the damn thing:
 
 ```
 . linode-rebuild
@@ -22,8 +20,8 @@ Then run the damn thing:
 
 ## Credits
 
-[linode](http://www.linode.com/)
-[rick]()
+[linode](http://linode.com)
+[rick](http://github.com/rick)
 
 ## License
 
